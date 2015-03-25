@@ -4,7 +4,6 @@
 #
 #-------------------------------------------------
 
-#include(C:/Qt/3rdparty/qextserialport-1.2rc/src/qextserialport.pri)
 
 QT       += core gui
 CONFIG   += qwt
